@@ -20,7 +20,7 @@ function Iletisim() {
     <div className="row">
       <div class="col-lg-2s col-md-2 col-sm-12 col-12 p-5">
         <a
-          href="https://goo.gl/maps/4wXVn2thBtG1BpcP9"
+          href="https://goo.gl/maps/jczbj9r8LAZPrXo96"
           target="_blank"
           rel="noopener noreferrer"
         >

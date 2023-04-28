@@ -61,7 +61,7 @@ function Home() {
           style={{ marginTop: "2.5rem" }}
         >
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d903.2062118059525!2d34.587353984783284!3d36.78244250834189!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1527f4ae4c3b85d5%3A0x380689ace6071371!2sBoss%20Point!5e0!3m2!1str!2str!4v1682639495253!5m2!1str!2str"
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12782.020598719035!2d34.587958!3d36.7824371!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39b5e9c2b543a49%3A0x11b94ca2aa266483!2sMersin%20Lavinya%20Golden%20G%C3%BCzellik%20Merkezi!5e0!3m2!1str!2str!4v1682707734525!5m2!1str!2str"
             className="googleharita"
             style={{
               width: "100%",
